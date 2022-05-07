@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kodecamosol/static/css/main.e6c13ad2.css",
+    "main.js": "/kodecamosol/static/js/main.1e1a627c.js",
+    "static/js/787.dc8b04cd.chunk.js": "/kodecamosol/static/js/787.dc8b04cd.chunk.js",
+    "index.html": "/kodecamosol/index.html",
+    "main.e6c13ad2.css.map": "/kodecamosol/static/css/main.e6c13ad2.css.map",
+    "main.1e1a627c.js.map": "/kodecamosol/static/js/main.1e1a627c.js.map",
+    "787.dc8b04cd.chunk.js.map": "/kodecamosol/static/js/787.dc8b04cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e1a627c.js"
+  ]
+}
